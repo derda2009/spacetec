@@ -3320,7 +3320,7 @@
                     "fields": [
                         "Wie groß ist die Energieeinstrahlungsleistung der Sonne pro Quadratmeter in Erdnähe? Wie viel Prozent davon kann typerscherweise photovoltaisch genutzt werden?",
                         "Die Erde erreichen 752-1066 W/m<sup>2</sup>&nbsp;der Sonnenenergie (je nach Wetter). Durch den Wirkungsgrad von Photovoltaikanlagen können etwa 10% genutz werden.&nbsp;<div>Eintrahlungwinkel beachten, da der Wert für einen projizierten Quadratmeter angegeben ist.&nbsp;</div>",
-                        ""
+                        "Test_1"
                     ],
                     "flags": 0,
                     "guid": "e9h]YUevdY",
@@ -3884,314 +3884,6 @@
                     ],
                     "flags": 0,
                     "guid": "bZIy;2%j)D",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "f6eff79a-4676-11ea-b42c-eff3ce899a65",
-            "deck_config_uuid": "f6eff45d-4676-11ea-b42c-eff3ce899a65",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "Kapitel 10 - Lage- und Bahnregelung ",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Nennen Sie mindestens drei Gründe warum Bahnregelung von Satelliten notwendig ist.",
-                        "Bahnregelung - Einhalten bestimmter Bahnparameter:<div>- Positionierung eines Satelliten über einem bestimmten Längengrad</div><div>- Positionshaltung von Satelliten (Stationkeeping)</div><div>- Beseiteigen von Inklinationsfehlern</div><div>- Korrektur der Exzentrizität oder Orbithöhe einer Bahn</div><div>- Kompensation von Störungen auf die Bahn</div><div>- Entsorgung nach Mission ( erst seit ein paar Jahren)</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "mAT@:Wx9!.",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Nennen Sie mindestens drei Gründe warum Lageregelung von Satelliten notwendig ist.",
-                        "Lageregelung - Ausrichten bzw. einhalten (stabilisieren) der Orientierung des Satelliten:<div>- Ausgleich von Störungen der Lage</div><div>- Ausrichten der Lage für ein Schubmanöver</div><div>- Ausrichten von Instrumenten auf einen Zielpunkt</div><div>- Stabilisierung einer Lagen</div><div>- Aufspinnen und entspinnen von drallstabilisierten Raumflugkörpern</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "L?SG:8,/(m",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Welche Störungen (innere und äußere) gibt es ? Nennen Sie 3",
-                        "Äußere Störungen/Umwelteinflüsse:<div>- Gravitation (Erde, Himmelskörper)</div><div>- Restatmosphäre (höhenabhängig &lt; 1000km)</div><div>- solarer Strahlungsdruck</div><div>- Magnetfeld (Wechselwirkung zwsichen Erdmagnetfeld &amp; Dipolmoment des Satelliten)</div><div>- Makrometeoride &amp; space debris</div><div><br /></div><div>Innere Störungen (bordinterne Ursachen)</div><div>- Aufzeichnungsgeräte&nbsp;</div><div>- Bewegung der Besatzung&nbsp;</div><div>- Treibstoffschwappen</div><div>- Verdrehung der Solargeneratorpanelen</div><div>- Lecks pneumatischer Systeme</div><div>-Schubvektorfehler</div><div>-Wechselwirkung von Triebwerksgasen mit Strukturteilen</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "zOAU=f{:?$",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Was sind Nord-Süd-Störungen auf GEO und wie kommen sie zustanden?",
-                        "Störungen der Bahnebene, Oszillation in Nord-Süd-Richtung mit wechselnder Amplitude&nbsp;<div>Grund: Drittkörperstörung durch Sonne und Mond</div><div><br /></div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "lo7aQ)x6qY",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Was sind Ost-West-Störungen auf GEO und wie kommen sie zustande?",
-                        "Drift des Satelliten aus seiner Position in West- oder Ostrichtung&nbsp;<div>Grund: ungleiche Massenverteilung der Erde (Triaxialität)</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "EL]=(>VS3&",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Welche Störung hat den größten Einfluss auf einen Satelliten in 1000km Höhe?",
-                        "Einfluss der Gravitation der Erde(J2-Stlrung, Erdabplattung, unregelmäßig geformte Erde)",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "J20>KSrXwY",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Nennen Sie drei Sensoren zur Erkennung der Lage des Satelliten.",
-                        "Sonnensensor, Sternsensor, Erdhorizontsensor, Magnetsensoren, Messkreisel, Inertialgeräte (z.B. Beschleunigungsmesser),GPS/Glonass<div>Bodengebunden (Zusatz): Messung Entfernung, Geschwindigkeit, Richtung</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "N0+^ZEn8Lf",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Warum werden auch \"ungenaue\" Sonnensensoren benutzt?",
-                        "Wichtig vor allem am Anfang beim Detumbling wenn andere Sensoren wie z.B. Sternenkameras nicht funktionsfähig sind.",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "ITZSi!(Q?p",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Wie werden Schattenpahsen überbrückt wenn nur Sonnensensoren vorhanden sind?",
-                        "Internes Propagieren der Lage oder Driften",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "AbTOOEL+FX",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Reichen Sternensensoren alleine zur Lagebestimmung? Begründung",
-                        "Nein, da z.B. nach dem Start die Drehrate zu hoch sein kann und diese dann nicht arbeiten.&nbsp;",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Lpt6/b[FW",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Reichen FOGs alleine zur Bestimmung der Lage? (Faseroptische Kreisel)",
-                        "Nein, wegen Drift ist ggf. optische Stützung zur Kalibrierung bzw. Kompensation nötig",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "uzC-OAWjPF",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Was ist eine säkuläre Störung?",
-                        "Störung die immer in die gleiche Richtung wirkt (mathematisch monoton)",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "qrT7o61a##",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "in welche Richtung muss man Schub geben um die Form bzw. Lage der Satellitenbahn zu ändern?",
-                        "Formänderung: Schubänderung in Bahnebene<div>Bahnebenenänderung: Schubvektor senkrecht zur Bahnebene</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "N^E+_13Xz2",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Wie unterscheiden sich aktive und passive Stabilisierungen?",
-                        "Aktiv: &nbsp; durch bordseiteige Maßnahmen (Stellmomente)<div>passiv: durch Nutzung äußerer Momente der Umwelt</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "bmaGVh1$5p",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Welche beiden Arten der aktiven Lageregelung gibt es? Nennen Sie Vor- und Nachteile.",
-                        "Drallstabilisierung:<br />+ einfach<div>+ Eigenstabil</div><div>+ geringer Treibstoffverbrauch</div><div>- Entkopplung der Instrumente und Solarpanelen von Drehbewegung</div><div>- Geometrieanforderung bzw Massenverteilung&nbsp;</div><div>- Geringe Genauigkeit</div><div><br /></div><div>Dreiachsenstabilisierung:&nbsp;</div><div>+ hohe Lagegenauigkeit</div><div>+ Jede Achse einzeln orientierbar</div><div>+ Große Auslagerstrukturen realisierbar (Solarpanele)</div><div>- komplex</div><div>- störanfällig</div><div>- Treibstoffverbrauch im Grenzzyklusbetrieb</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "kl73[o6t-0",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Nennen sie drei Aktuatoren zur Steuerung der Lage eines Satelliten.",
-                        "Reaktionsdüsen<div>Stellmagnet (Permanentmagnet &amp; Stromspulen)</div><div>Drallräder</div><div>Stellkreisel</div><div><br /></div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "s~L}<q{;vg",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Kann man die Lage eines Stalliten alleine mit Magnettorquern steuern? Begründung",
-                        "lokal (einer Stelle im Orbit) betrachtet: Nein, da keine Drehung um Magnetfeldlinien möglich ist<div>global (ganzer Orbit) betrachtet: Ja, da das Magnetfeld sich ändert um somit die Lage des Satelliten in alle drei Achsen gesteuert werden kann</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "KBjI^a+|h*",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Warum regelt man die Lage eines Stalliten nicht nur mit Reaktionsdüsen?",
-                        "Hoher Treibstoffverbrauch, insbesondere im Grenzzykusbetrieb, säkuläre Störungen können nicht von einem Drehimpulssspeicher abgefangen werden, sondern müssen permanent gegengesteuert werden",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "kc<1JP{`vp",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Wie viele Steuerdüsen braucht man mindestens, um einen Stalliten in allen drei Achsen steuern zu können?",
-                        "Vier",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "F}=+;Bh9k?",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Wie ist das Redundanzkonzept bei Reaktionsschwungrädern?",
-                        "Tetraeder-Aufbau mit vier Rädern, 3 out of 4 Redundanz",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "inCle{fIG#",
-                    "newlyAdded": false,
-                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Ist es relevant an welcher Stelle im Satelliten die Reaktionsräder positioniert werden?",
-                        "Nein",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "r)&0!.n/PQ",
                     "newlyAdded": false,
                     "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
                     "tags": []
@@ -5697,6 +5389,335 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9f435c7f-4745-11ea-87da-0028f82ae61b",
+            "deck_config_uuid": "9f4383be-4745-11ea-892e-0028f82ae61b",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Kapitel 10 - Lage- und Bahnregelung ",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Nennen Sie mindestens drei Gründe warum Bahnregelung von Satelliten notwendig ist.",
+                        "Bahnregelung - Einhalten bestimmter Bahnparameter:<div>- Positionierung eines Satelliten über einem bestimmten Längengrad</div><div>- Positionshaltung von Satelliten (Stationkeeping)</div><div>- Beseiteigen von Inklinationsfehlern</div><div>- Korrektur der Exzentrizität oder Orbithöhe einer Bahn</div><div>- Kompensation von Störungen auf die Bahn</div><div>- Entsorgung nach Mission ( erst seit ein paar Jahren)</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mAT@:Wx9!.",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Nennen Sie mindestens drei Gründe warum Lageregelung von Satelliten notwendig ist.",
+                        "Lageregelung - Ausrichten bzw. einhalten (stabilisieren) der Orientierung des Satelliten:<div>- Ausgleich von Störungen der Lage</div><div>- Ausrichten der Lage für ein Schubmanöver</div><div>- Ausrichten von Instrumenten auf einen Zielpunkt</div><div>- Stabilisierung einer Lagen</div><div>- Aufspinnen und entspinnen von drallstabilisierten Raumflugkörpern</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L?SG:8,/(m",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Welche Störungen (innere und äußere) gibt es ? Nennen Sie 3",
+                        "Äußere Störungen/Umwelteinflüsse:<div>- Gravitation (Erde, Himmelskörper)</div><div>- Restatmosphäre (höhenabhängig &lt; 1000km)</div><div>- solarer Strahlungsdruck</div><div>- Magnetfeld (Wechselwirkung zwsichen Erdmagnetfeld &amp; Dipolmoment des Satelliten)</div><div>- Makrometeoride &amp; space debris</div><div><br></div><div>Innere Störungen (bordinterne Ursachen)</div><div>- Aufzeichnungsgeräte&nbsp;</div><div>- Bewegung der Besatzung&nbsp;</div><div>- Treibstoffschwappen (Fuel-Sloshing)</div><div>- Verdrehung der Solargeneratorpanelen</div><div>- Lecks pneumatischer Systeme</div><div>-Schubvektorfehler</div><div>-Wechselwirkung von Triebwerksgasen mit Strukturteilen</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zOAU=f{:?$",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Was sind Nord-Süd-Störungen auf GEO und wie kommen sie zustanden?",
+                        "Störungen der Bahnebene, Oszillation in Nord-Süd-Richtung mit wechselnder Amplitude&nbsp;<div>Grund: Drittkörperstörung durch Sonne und Mond</div><div><br /></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "lo7aQ)x6qY",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Was sind Ost-West-Störungen auf GEO und wie kommen sie zustande?",
+                        "Drift des Satelliten aus seiner Position in West- oder Ostrichtung&nbsp;<div>Grund: ungleiche Massenverteilung der Erde (Triaxialität)</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "EL]=(>VS3&",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Welche Störung hat den größten Einfluss auf einen Satelliten in 1000km Höhe?",
+                        "Einfluss der Gravitation der Erde(J2-Strahlung, Erdabplattung, unregelmäßig geformte Erde)",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "J20>KSrXwY",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Nennen Sie drei Sensoren zur Erkennung der Lage des Satelliten.",
+                        "Sonnensensor, Sternsensor, Erdhorizontsensor, Magnetsensoren, Messkreisel, Inertialgeräte (z.B. Beschleunigungsmesser),GPS/Glonass<div>Bodengebunden (Zusatz): Messung Entfernung, Geschwindigkeit, Richtung</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N0+^ZEn8Lf",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Warum werden auch \"ungenaue\" Sonnensensoren benutzt?",
+                        "Wichtig vor allem am Anfang beim Detumbling wenn andere Sensoren wie z.B. Sternenkameras nicht funktionsfähig sind.",
+                        "Detumbling = Taumeln stoppen"
+                    ],
+                    "flags": 0,
+                    "guid": "ITZSi!(Q?p",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Wie werden Schattenpahsen überbrückt wenn nur Sonnensensoren vorhanden sind?",
+                        "Internes Propagieren der Lage oder Driften",
+                        "-Drift/ Berechnen der Bahn im voraus<div>-Durch Senden eines Signals können Geschwindigkeit und Position ungefähr abgeschätzt werden</div><div>-GPS-Sensoren/ andere Sensoren zur Überbrückung der Schatten-Phase</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "AbTOOEL+FX",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Reichen Sternensensoren alleine zur Lagebestimmung? Begründung",
+                        "Nein, da z.B. nach dem Start die Drehrate zu hoch sein kann und diese dann nicht arbeiten.&nbsp;",
+                        "Wenn man den Betrieb im Orbit betrachtet, reichen zwei Sternensensoren die zum Beispiel in einem Winkel von 40° zueinander angeordnet sind, um die Lage vollständig zu bestimmen."
+                    ],
+                    "flags": 0,
+                    "guid": "Lpt6/b[FW",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Reichen FOGs alleine zur Bestimmung der Lage? (Faseroptische Kreisel)",
+                        "Nein, wegen Drift ist ggf. optische Stützung zur Kalibrierung bzw. Kompensation nötig",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uzC-OAWjPF",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Was ist eine säkuläre Störung?",
+                        "Störung die immer in die gleiche Richtung wirkt (mathematisch monoton)",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qrT7o61a##",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "in welche Richtung muss man Schub geben um die Form bzw. Lage der Satellitenbahn zu ändern?",
+                        "Formänderung: Schubänderung in Bahnebene<div>Bahnebenenänderung: Schubvektor senkrecht zur Bahnebene</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N^E+_13Xz2",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Wie unterscheiden sich aktive und passive Stabilisierungen?",
+                        "Aktiv: &nbsp; durch bordseiteige Maßnahmen (Stellmomente)<div>passiv: durch Nutzung äußerer Momente der Umwelt</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bmaGVh1$5p",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Welche beiden Arten der aktiven Lageregelung gibt es? Nennen Sie Vor- und Nachteile.",
+                        "Drallstabilisierung:<br />+ einfach<div>+ Eigenstabil</div><div>+ geringer Treibstoffverbrauch</div><div>- Entkopplung der Instrumente und Solarpanelen von Drehbewegung</div><div>- Geometrieanforderung bzw Massenverteilung&nbsp;</div><div>- Geringe Genauigkeit</div><div><br /></div><div>Dreiachsenstabilisierung:&nbsp;</div><div>+ hohe Lagegenauigkeit</div><div>+ Jede Achse einzeln orientierbar</div><div>+ Große Auslagerstrukturen realisierbar (Solarpanele)</div><div>- komplex</div><div>- störanfällig</div><div>- Treibstoffverbrauch im Grenzzyklusbetrieb</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "kl73[o6t-0",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Nennen sie drei Aktuatoren zur Steuerung der Lage eines Satelliten.",
+                        "Reaktionsdüsen<div>Stellmagnet (Permanentmagnet &amp; Stromspulen)</div><div>Drallräder</div><div>Stellkreisel</div><div><br /></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "s~L}<q{;vg",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Kann man die Lage eines Stalliten alleine mit Magnettorquern steuern? Begründung",
+                        "lokal (einer Stelle im Orbit) betrachtet: Nein, da keine Drehung um Magnetfeldlinien möglich ist<div>global (ganzer Orbit) betrachtet: Ja, da das Magnetfeld sich ändert um somit die Lage des Satelliten in alle drei Achsen gesteuert werden kann</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "KBjI^a+|h*",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Warum regelt man die Lage eines Stalliten nicht nur mit Reaktionsdüsen?",
+                        "Hoher Treibstoffverbrauch, insbesondere im Grenzzykusbetrieb, säkuläre Störungen können nicht von einem Drehimpulssspeicher abgefangen werden, sondern müssen permanent gegengesteuert werden",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "kc<1JP{`vp",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Wie viele Steuerdüsen braucht man mindestens, um einen Stalliten in allen drei Achsen steuern zu können?",
+                        "Vier",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F}=+;Bh9k?",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Wie ist das Redundanzkonzept bei Reaktionsschwungrädern?",
+                        "Tetraeder-Aufbau mit vier Rädern, 3 out of 4 Redundanz",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "inCle{fIG#",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "",
+                        "Ist es relevant an welcher Stelle im Satelliten die Reaktionsräder positioniert werden?",
+                        "Nein",
+                        "-Drallachsen müssen senkrecht aufeinander stehen&nbsp;<div>-Drallachsen sollten durch vorgesehenen Drehpunkt des Satelliten verlaufen da sich sonst der Drehpunkt verschiebt (anderer Fragenkatalog!)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "r)&0!.n/PQ",
+                    "newlyAdded": false,
+                    "note_model_uuid": "f6eff460-4676-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "f6eff458-4676-11ea-b42c-eff3ce899a65",
@@ -5792,6 +5813,51 @@
                 "perDay": 200
             },
             "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "9f4383be-4745-11ea-892e-0028f82ae61b",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
         }
     ],
     "desc": "",
