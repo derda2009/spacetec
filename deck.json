@@ -5756,7 +5756,29 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "paste-060c3729efcdfc85ebf7f624e0787efbe92cd99e.jpg",
+                "paste-09e0b390f6b05f755039f7ffef68124cbab5b3b9.jpg",
+                "paste-1431291f69be8a36e36e11c55838e4ebbe1250df.jpg",
+                "paste-16b9d375c2c1144fe73382f263acea70d8962388.jpg",
+                "paste-2ff8fbb8e7694eb29e6010dcde7949de1d6d3638.jpg",
+                "paste-58f0537f22b61119fe5da37c40705cf7f6adf93f.jpg",
+                "paste-6000d0acb57c0dc4134a664fbdb28cd2cba6982d.jpg",
+                "paste-6390b791c7f005a8a8312abef0cc0674fdf2f963.jpg",
+                "paste-7576b2d2e9ce88f424c444a952f9c0cdffb62131.jpg",
+                "paste-7850c5307db8fbec5b379b7b5b3db9ab71fe10cb.jpg",
+                "paste-a542da34d85e82c6d16fe5f424a09fce8ad7170a.jpg",
+                "paste-b0cde15ab08cefba143db426804ca5e14c31139e.jpg",
+                "paste-b0f6fdc87cd29d0eefc917db410d2d7ef59bad15.jpg",
+                "paste-cea03c5eb0ca86a6b17ec11cd34fd6c5a535a469.jpg",
+                "paste-ceacd7d1810c45481630f5842c7096c19c4174ca.jpg",
+                "paste-d36ce6f8e963de65ec48cfe91ee7f1f26eff2d54.jpg",
+                "paste-d91d2b155d879be2fc7bcfe19492069092260b25.jpg",
+                "paste-e16d9d97322d6f55ad4fd7e45a19aeef6ccb39c6.jpg",
+                "paste-e9c10cdf36d87a87586d29d4e44fb0f1db269248.jpg",
+                "paste-f710bf4c64d7b582f53ff2a68387476b02b191bd.jpg",
+                "paste-ff778d5d30a8457c51eb133c10a5900c6ec8de1a.jpg"
+            ],
             "name": "Kapitel 10 - Lage- und Bahnregelung ",
             "notes": [
                 {
@@ -5796,7 +5818,7 @@
                         "3",
                         "Welche Störungen (innere und äußere) gibt es ? Nennen Sie 3",
                         "<b>Äußere Störungen/Umwelteinflüsse</b>:<div>- Gravitation (Erde, Himmelskörper)</div><div>- Restatmosphäre (höhenabhängig &lt; 1000km)</div><div>- solarer Strahlungsdruck</div><div>- Magnetfeld (Wechselwirkung zwsichen Erdmagnetfeld &amp; Dipolmoment des Satelliten)</div><div>- Makrometeoride &amp; space debris</div><div><br></div><div><b>Innere Störungen (bordinterne Ursachen)</b></div><div>- Aufzeichnungsgeräte&nbsp;</div><div>- Bewegung der Besatzung&nbsp;</div><div>- Treibstoffschwappen</div><div>- Verdrehung der Solargeneratorpanelen</div><div>- Lecks pneumatischer Systeme</div><div>-Schubvektorfehler</div><div>-Wechselwirkung von Triebwerksgasen mit Strukturteilen</div>",
-                        ""
+                        "<img src=\"paste-f710bf4c64d7b582f53ff2a68387476b02b191bd.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "zOAU=f{:?$",
@@ -5841,7 +5863,7 @@
                         "6",
                         "Welche Störung hat den größten Einfluss auf einen Satelliten in 1000km Höhe?",
                         "Einfluss der Gravitation der Erde(J2-Störung, Erdabplattung, ungleiche Masseverteilung der Erde)",
-                        ""
+                        "<img src=\"paste-1431291f69be8a36e36e11c55838e4ebbe1250df.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "J20>KSrXwY",
@@ -5856,7 +5878,7 @@
                         "7",
                         "Nennen Sie drei Sensoren zur Erkennung der Lage des Satelliten.",
                         "-Sonnensensor<div>-Sternsensor</div><div>-Erdhorizontsensor</div><div>-Magnetsensoren&nbsp;</div><div>-Messkreisel (Gyros)</div><div>-Inertialgeräte (z.B. Beschleunigungsmesser)</div><div>-GPS/Glonass<div>-Bodengebunden (Zusatz): Messung Entfernung, Geschwindigkeit, Richtung</div></div>",
-                        ""
+                        "<div><b>Merkhilfen</b> für unterschiedliche Sensoren:&nbsp;</div><div>-&gt;<b>Sonnensensor</b></div><div><img src=\"paste-16b9d375c2c1144fe73382f263acea70d8962388.jpg\"><br><div>-&gt;<b>Sternsensor</b></div><div><img src=\"paste-e16d9d97322d6f55ad4fd7e45a19aeef6ccb39c6.jpg\"><br></div><div>-&gt;<b>Erdhorizontsensor</b></div><div><img src=\"paste-d91d2b155d879be2fc7bcfe19492069092260b25.jpg\"><br></div><div>-&gt;<b>Magnetsensoren</b></div><div><img src=\"paste-b0cde15ab08cefba143db426804ca5e14c31139e.jpg\"><br></div><div>-&gt;Messkreisel (<b>Gyros</b>)</div></div><div><img src=\"paste-ff778d5d30a8457c51eb133c10a5900c6ec8de1a.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "N0+^ZEn8Lf",
@@ -5886,7 +5908,7 @@
                         "9",
                         "Wie werden Schattenpahsen überbrückt wenn nur Sonnensensoren vorhanden sind?",
                         "Internes Propagieren der Lage oder Driften",
-                        "-Vorausberechnen der Flugbahn/Drift<br>-Durch Senden eines Signals (zu zwei Zeitpunkten) können Richtung und Geschwindigkeit ermittelt werden<br>-andere Sensoren wir GPS benutzen"
+                        "-Vorausberechnen der Flugbahn/Drift<br>-Durch Senden eines Signals (zu zwei Zeitpunkten) können Richtung und Geschwindigkeit ermittelt werden<div><img src=\"paste-2ff8fbb8e7694eb29e6010dcde7949de1d6d3638.jpg\"><br>-andere Sensoren wir GPS benutzen</div>"
                     ],
                     "flags": 0,
                     "guid": "AbTOOEL+FX",
@@ -5901,7 +5923,7 @@
                         "10",
                         "Reichen Sternensensoren alleine zur Lagebestimmung? Begründung",
                         "Nein, da z.B. nach dem Start die <b>Drehrate zu hoch</b> sein kann und diese dann nicht arbeiten.&nbsp;",
-                        ""
+                        "Sternsensoren dürfen im Safemode (AOC-SFM) und im Initial-Aquisition-Mode (AOC-IAM) nicht verwendet werden. Dafür liefern sie im Normal-Mode (AOC-NOM) und Orbit-Control-Mode (AOC-OCM) gute Ergebnisse und direkt die 3D-Lage.<div><u>Beispiel Erdbeobachtungssatellit:</u></div><div><img src=\"paste-6390b791c7f005a8a8312abef0cc0674fdf2f963.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "Lpt6/b[FW",
@@ -5914,9 +5936,9 @@
                     "data": "",
                     "fields": [
                         "11",
-                        "Reichen FOGs alleine zur Bestimmung der Lage? (Faseroptische Kreisel)",
+                        "Reichen FOGs alleine zur Bestimmung der Lage? (Faseroptische Kreisel/Gyros)",
                         "Nein, wegen Drift ist ggf. optische Stützung zur Kalibrierung bzw. Kompensation nötig",
-                        ""
+                        "<img src=\"paste-09e0b390f6b05f755039f7ffef68124cbab5b3b9.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "uzC-OAWjPF",
@@ -5929,9 +5951,9 @@
                     "data": "",
                     "fields": [
                         "12",
-                        "Was ist eine säkuläre Störung?",
+                        "Was ist eine säkuläre Störung? (secular disturbances)",
                         "Störung die immer in die gleiche Richtung wirkt (mathematisch monoton)",
-                        ""
+                        "Es gibt noch:<div>-Short periodic disturbances (charakterisiert durch sin/cos der wahren Anomalie)</div><div>-Long periodic disturbances (charakterisiert durch Gleichungen wie zum Beispiel mittlere Winkelgeschwindigkeit n)</div>"
                     ],
                     "flags": 0,
                     "guid": "qrT7o61a##",
@@ -5944,7 +5966,7 @@
                     "data": "",
                     "fields": [
                         "13",
-                        "in welche Richtung muss man Schub geben um die Form bzw. Lage der Satellitenbahn zu ändern?",
+                        "In welche Richtung muss man Schub geben um die Form bzw. Lage der Satellitenbahn zu ändern?",
                         "<b>Formänderung</b>: Schubänderung in Bahnebene<div><b>Bahnebenenänderung</b>: Schubvektor senkrecht zur Bahnebene</div>",
                         ""
                     ],
@@ -5961,7 +5983,7 @@
                         "14",
                         "Wie unterscheiden sich aktive und passive Stabilisierungen?",
                         "<b>Aktiv</b>: durch bordseiteige Maßnahmen (Stellmomente)<div><b>Passiv</b>: durch Nutzung äußerer Momente der Umwelt</div>",
-                        ""
+                        "Passive Stabilisierung entweder über Magnetfeld<div><img src=\"paste-7850c5307db8fbec5b379b7b5b3db9ab71fe10cb.jpg\"><br></div><div>oder über Solardruck:</div><div><img src=\"paste-6000d0acb57c0dc4134a664fbdb28cd2cba6982d.jpg\"><br></div><div><div><br></div></div>"
                     ],
                     "flags": 0,
                     "guid": "bmaGVh1$5p",
@@ -5975,8 +5997,8 @@
                     "fields": [
                         "15",
                         "Welche beiden Arten der aktiven Lageregelung gibt es? Nennen Sie Vor- und Nachteile.",
-                        "Drallstabilisierung:<br />+ einfach<div>+ Eigenstabil</div><div>+ geringer Treibstoffverbrauch</div><div>- Entkopplung der Instrumente und Solarpanelen von Drehbewegung</div><div>- Geometrieanforderung bzw Massenverteilung&nbsp;</div><div>- Geringe Genauigkeit</div><div><br /></div><div>Dreiachsenstabilisierung:&nbsp;</div><div>+ hohe Lagegenauigkeit</div><div>+ Jede Achse einzeln orientierbar</div><div>+ Große Auslagerstrukturen realisierbar (Solarpanele)</div><div>- komplex</div><div>- störanfällig</div><div>- Treibstoffverbrauch im Grenzzyklusbetrieb</div>",
-                        ""
+                        "<b>Drallstabilisierung</b>:<br>+ einfach<div>+ Eigenstabil</div><div>+ geringer Treibstoffverbrauch</div><div>- Entkopplung der Instrumente und Solarpanelen von Drehbewegung</div><div>- Geometrieanforderung bzw Massenverteilung&nbsp;</div><div>- Geringe Genauigkeit</div><div><br></div><div><b>Dreiachsenstabilisierung</b>:&nbsp;</div><div>+ hohe Lagegenauigkeit</div><div>+ Jede Achse einzeln orientierbar</div><div>+ Große Auslagerstrukturen realisierbar (Solarpanele)</div><div>- komplex</div><div>- störanfällig</div><div>- Treibstoffverbrauch im Grenzzyklusbetrieb</div>",
+                        "<img src=\"paste-58f0537f22b61119fe5da37c40705cf7f6adf93f.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "kl73[o6t-0",
@@ -5988,10 +6010,10 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "16",
                         "Nennen sie drei Aktuatoren zur Steuerung der Lage eines Satelliten.",
-                        "Reaktionsdüsen<div>Stellmagnet (Permanentmagnet &amp; Stromspulen)</div><div>Drallräder</div><div>Stellkreisel</div><div><br /></div>",
-                        ""
+                        "-Reaktionsdüsen (<b>Thruster</b>)<div>-Stellmagnet (Permanentmagnet &amp; Stromspulen) (<b>Magnetic Torquer</b>)</div><div>-Drallräder (<b>Momentum Wheel</b>)</div><div>-Stellkreisel</div><div><br></div>",
+                        "<img src=\"paste-b0f6fdc87cd29d0eefc917db410d2d7ef59bad15.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "s~L}<q{;vg",
@@ -6003,10 +6025,10 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "17",
                         "Kann man die Lage eines Stalliten alleine mit Magnettorquern steuern? Begründung",
-                        "lokal (einer Stelle im Orbit) betrachtet: Nein, da keine Drehung um Magnetfeldlinien möglich ist<div>global (ganzer Orbit) betrachtet: Ja, da das Magnetfeld sich ändert um somit die Lage des Satelliten in alle drei Achsen gesteuert werden kann</div>",
-                        ""
+                        "<b>lokal </b>(einer Stelle im Orbit) betrachtet: Nein, da keine Drehung um Magnetfeldlinien möglich ist<div><b>global </b>(ganzer Orbit) betrachtet: Ja, da das Magnetfeld sich ändert um somit die Lage des Satelliten in alle drei Achsen gesteuert werden kann</div>",
+                        "In Satellitenregelung sogar berechnet:<div><img src=\"paste-d36ce6f8e963de65ec48cfe91ee7f1f26eff2d54.jpg\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "KBjI^a+|h*",
@@ -6018,9 +6040,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "18",
                         "Warum regelt man die Lage eines Stalliten nicht nur mit Reaktionsdüsen?",
-                        "Hoher Treibstoffverbrauch, insbesondere im Grenzzykusbetrieb, säkuläre Störungen können nicht von einem Drehimpulssspeicher abgefangen werden, sondern müssen permanent gegengesteuert werden",
+                        "-Hoher <b>Treibstoffverbrauch</b>, insbesondere im Grenzzykusbetrieb<div>-säkuläre Störungen können nicht von einem Drehimpulssspeicher abgefangen werden, sondern müssen permanent gegengesteuert werden (<b>periodische Störungen</b>)</div>",
                         ""
                     ],
                     "flags": 0,
@@ -6033,10 +6055,10 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "19",
                         "Wie viele Steuerdüsen braucht man mindestens, um einen Stalliten in allen drei Achsen steuern zu können?",
                         "Vier",
-                        ""
+                        "<img src=\"paste-a542da34d85e82c6d16fe5f424a09fce8ad7170a.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "F}=+;Bh9k?",
@@ -6048,10 +6070,10 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "20",
                         "Wie ist das Redundanzkonzept bei Reaktionsschwungrädern?",
-                        "Tetraeder-Aufbau mit vier Rädern, 3 out of 4 Redundanz",
-                        ""
+                        "<b>Tetraeder-Aufbau</b> mit vier Rädern, 3 out of 4 Redundanz",
+                        "<div>Beispielanordnung im körperfesten System:</div><img src=\"paste-ceacd7d1810c45481630f5842c7096c19c4174ca.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "inCle{fIG#",
@@ -6063,13 +6085,58 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "21",
                         "Ist es relevant an welcher Stelle im Satelliten die Reaktionsräder positioniert werden?",
                         "Nein",
-                        "-Reaktionsräder müssen im rechten Winkel zueinander angeordnet sein"
+                        "<div>Beispielanordnung im körperfesten System - es ist egal wo sie liegen, solange die Lage zueinander bekannt ist.</div><img src=\"paste-ceacd7d1810c45481630f5842c7096c19c4174ca.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "r)&0!.n/PQ",
+                    "newlyAdded": false,
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "100",
+                        "Wie genau funktioniert das Lage- und Bahnregelungssystem? (Blockschaltdiagramm)<div>Hinweis: Zusatzfrage!&nbsp;</div>",
+                        "<img src=\"paste-060c3729efcdfc85ebf7f624e0787efbe92cd99e.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hc16{kGU`A",
+                    "newlyAdded": false,
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "101",
+                        "Was ist die typische Lebensdauer eines Satelliten in x km Höhe?&nbsp;<div>Hinweis: Zusatzfrage!&nbsp;</div>",
+                        "<img src=\"paste-cea03c5eb0ca86a6b17ec11cd34fd6c5a535a469.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k0N/Xh?$GI",
+                    "newlyAdded": false,
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "102",
+                        "<div>Welche Störungen haben auf welchen Bahnparameter Einfluss?</div>Hinweis: Zusatzfrage!",
+                        "<img src=\"paste-e9c10cdf36d87a87586d29d4e44fb0f1db269248.jpg\"><div><img src=\"paste-7576b2d2e9ce88f424c444a952f9c0cdffb62131.jpg\"><br></div><div><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "n(=h<zlp^!",
                     "newlyAdded": false,
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
@@ -6177,6 +6244,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
+    "mid": "1580822595315",
     "name": "spacetec",
     "note_models": [
         {
