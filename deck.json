@@ -5763,9 +5763,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
-                        "Nennen Sie mindestens drei Gründe warum Bahnregelung von Satelliten notwendig ist.",
-                        "Bahnregelung - Einhalten bestimmter Bahnparameter:<div>- Positionierung eines Satelliten über einem bestimmten Längengrad</div><div>- Positionshaltung von Satelliten (Stationkeeping)</div><div>- Beseiteigen von Inklinationsfehlern</div><div>- Korrektur der Exzentrizität oder Orbithöhe einer Bahn</div><div>- Kompensation von Störungen auf die Bahn</div><div>- Entsorgung nach Mission ( erst seit ein paar Jahren)</div>",
+                        "1",
+                        "Nennen Sie mindestens drei Gründe warum Bahnregelung (Orbit-Control) von Satelliten notwendig ist.",
+                        "<u>Bahnregelung</u> =&nbsp;Einhalten bestimmter Bahnparameter:<div>- <b>Positionierung </b>eines Satelliten über einem bestimmten Längengrad</div><div>- Positionshaltung von Satelliten (<b>Stationkeeping</b>)</div><div>- Beseiteigen von <b>Inklinationsfehlern</b></div><div>- Korrektur der <b>Exzentrizität </b>oder Orbithöhe einer Bahn</div><div>- Kompensation von <b>Störungen </b>auf die Bahn</div><div>- <b>Entsorgung </b>nach Mission ( erst seit ein paar Jahren)</div>",
                         ""
                     ],
                     "flags": 0,
@@ -5778,9 +5778,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
-                        "Nennen Sie mindestens drei Gründe warum Lageregelung von Satelliten notwendig ist.",
-                        "Lageregelung - Ausrichten bzw. einhalten (stabilisieren) der Orientierung des Satelliten:<div>- Ausgleich von Störungen der Lage</div><div>- Ausrichten der Lage für ein Schubmanöver</div><div>- Ausrichten von Instrumenten auf einen Zielpunkt</div><div>- Stabilisierung einer Lagen</div><div>- Aufspinnen und entspinnen von drallstabilisierten Raumflugkörpern</div>",
+                        "2",
+                        "Nennen Sie mindestens drei Gründe warum Lageregelung (Attitude Conrol) von Satelliten notwendig ist.",
+                        "<u>Lageregelung</u> = Ausrichten bzw. einhalten (stabilisierung) der Orientierung des Satelliten:<div>- Ausgleich von <b>Störungen</b> der Lage</div><div>- <b>Ausrichten</b> der Lage für ein <b>Schub</b>manöver</div><div>- <b>Ausrichten</b> von <b>Instrumenten</b> auf einen Zielpunkt</div><div>- <b>Stabilisierung</b> einer Lagen</div><div>- Aufspinnen und entspinnen von drallstabilisierten Raumflugkörpern</div>",
                         ""
                     ],
                     "flags": 0,
@@ -5793,9 +5793,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "3",
                         "Welche Störungen (innere und äußere) gibt es ? Nennen Sie 3",
-                        "Äußere Störungen/Umwelteinflüsse:<div>- Gravitation (Erde, Himmelskörper)</div><div>- Restatmosphäre (höhenabhängig &lt; 1000km)</div><div>- solarer Strahlungsdruck</div><div>- Magnetfeld (Wechselwirkung zwsichen Erdmagnetfeld &amp; Dipolmoment des Satelliten)</div><div>- Makrometeoride &amp; space debris</div><div><br /></div><div>Innere Störungen (bordinterne Ursachen)</div><div>- Aufzeichnungsgeräte&nbsp;</div><div>- Bewegung der Besatzung&nbsp;</div><div>- Treibstoffschwappen</div><div>- Verdrehung der Solargeneratorpanelen</div><div>- Lecks pneumatischer Systeme</div><div>-Schubvektorfehler</div><div>-Wechselwirkung von Triebwerksgasen mit Strukturteilen</div>",
+                        "<b>Äußere Störungen/Umwelteinflüsse</b>:<div>- Gravitation (Erde, Himmelskörper)</div><div>- Restatmosphäre (höhenabhängig &lt; 1000km)</div><div>- solarer Strahlungsdruck</div><div>- Magnetfeld (Wechselwirkung zwsichen Erdmagnetfeld &amp; Dipolmoment des Satelliten)</div><div>- Makrometeoride &amp; space debris</div><div><br></div><div><b>Innere Störungen (bordinterne Ursachen)</b></div><div>- Aufzeichnungsgeräte&nbsp;</div><div>- Bewegung der Besatzung&nbsp;</div><div>- Treibstoffschwappen</div><div>- Verdrehung der Solargeneratorpanelen</div><div>- Lecks pneumatischer Systeme</div><div>-Schubvektorfehler</div><div>-Wechselwirkung von Triebwerksgasen mit Strukturteilen</div>",
                         ""
                     ],
                     "flags": 0,
@@ -5808,9 +5808,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "4",
                         "Was sind Nord-Süd-Störungen auf GEO und wie kommen sie zustanden?",
-                        "Störungen der Bahnebene, Oszillation in Nord-Süd-Richtung mit wechselnder Amplitude&nbsp;<div>Grund: Drittkörperstörung durch Sonne und Mond</div><div><br /></div>",
+                        "Störungen der Bahnebene, Oszillation in Nord-Süd-Richtung mit wechselnder Amplitude&nbsp;<div>Grund: Drittkörperstörung durch Sonne und Mond</div><div><br></div>",
                         ""
                     ],
                     "flags": 0,
@@ -5823,7 +5823,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "5",
                         "Was sind Ost-West-Störungen auf GEO und wie kommen sie zustande?",
                         "Drift des Satelliten aus seiner Position in West- oder Ostrichtung&nbsp;<div>Grund: ungleiche Massenverteilung der Erde (Triaxialität)</div>",
                         ""
@@ -5838,9 +5838,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "6",
                         "Welche Störung hat den größten Einfluss auf einen Satelliten in 1000km Höhe?",
-                        "Einfluss der Gravitation der Erde(J2-Stlrung, Erdabplattung, unregelmäßig geformte Erde)",
+                        "Einfluss der Gravitation der Erde(J2-Störung, Erdabplattung, ungleiche Masseverteilung der Erde)",
                         ""
                     ],
                     "flags": 0,
@@ -5853,9 +5853,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "7",
                         "Nennen Sie drei Sensoren zur Erkennung der Lage des Satelliten.",
-                        "Sonnensensor, Sternsensor, Erdhorizontsensor, Magnetsensoren, Messkreisel, Inertialgeräte (z.B. Beschleunigungsmesser),GPS/Glonass<div>Bodengebunden (Zusatz): Messung Entfernung, Geschwindigkeit, Richtung</div>",
+                        "-Sonnensensor<div>-Sternsensor</div><div>-Erdhorizontsensor</div><div>-Magnetsensoren&nbsp;</div><div>-Messkreisel (Gyros)</div><div>-Inertialgeräte (z.B. Beschleunigungsmesser)</div><div>-GPS/Glonass<div>-Bodengebunden (Zusatz): Messung Entfernung, Geschwindigkeit, Richtung</div></div>",
                         ""
                     ],
                     "flags": 0,
@@ -5868,10 +5868,10 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "8",
                         "Warum werden auch \"ungenaue\" Sonnensensoren benutzt?",
-                        "Wichtig vor allem am Anfang beim Detumbling wenn andere Sensoren wie z.B. Sternenkameras nicht funktionsfähig sind.",
-                        ""
+                        "Wichtig vor allem am Anfang beim <b>Detumbling</b> wenn andere Sensoren wie z.B. Sternenkameras nicht funktionsfähig sind.",
+                        "Nach Auswurf aus der Rakete taumelt der Satellit ganz stark -&nbsp; er hat eine bestimmte Zeit (die auch in Requirements festgelegt ist) um sich selbst zu stabilisieren (Detumbling)"
                     ],
                     "flags": 0,
                     "guid": "ITZSi!(Q?p",
@@ -5883,10 +5883,10 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "9",
                         "Wie werden Schattenpahsen überbrückt wenn nur Sonnensensoren vorhanden sind?",
                         "Internes Propagieren der Lage oder Driften",
-                        ""
+                        "-Vorausberechnen der Flugbahn/Drift<br>-Durch Senden eines Signals (zu zwei Zeitpunkten) können Richtung und Geschwindigkeit ermittelt werden<br>-andere Sensoren wir GPS benutzen"
                     ],
                     "flags": 0,
                     "guid": "AbTOOEL+FX",
@@ -5898,9 +5898,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "10",
                         "Reichen Sternensensoren alleine zur Lagebestimmung? Begründung",
-                        "Nein, da z.B. nach dem Start die Drehrate zu hoch sein kann und diese dann nicht arbeiten.&nbsp;",
+                        "Nein, da z.B. nach dem Start die <b>Drehrate zu hoch</b> sein kann und diese dann nicht arbeiten.&nbsp;",
                         ""
                     ],
                     "flags": 0,
@@ -5913,7 +5913,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "11",
                         "Reichen FOGs alleine zur Bestimmung der Lage? (Faseroptische Kreisel)",
                         "Nein, wegen Drift ist ggf. optische Stützung zur Kalibrierung bzw. Kompensation nötig",
                         ""
@@ -5928,7 +5928,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "12",
                         "Was ist eine säkuläre Störung?",
                         "Störung die immer in die gleiche Richtung wirkt (mathematisch monoton)",
                         ""
@@ -5943,9 +5943,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "13",
                         "in welche Richtung muss man Schub geben um die Form bzw. Lage der Satellitenbahn zu ändern?",
-                        "Formänderung: Schubänderung in Bahnebene<div>Bahnebenenänderung: Schubvektor senkrecht zur Bahnebene</div>",
+                        "<b>Formänderung</b>: Schubänderung in Bahnebene<div><b>Bahnebenenänderung</b>: Schubvektor senkrecht zur Bahnebene</div>",
                         ""
                     ],
                     "flags": 0,
@@ -5958,9 +5958,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "14",
                         "Wie unterscheiden sich aktive und passive Stabilisierungen?",
-                        "Aktiv: &nbsp; durch bordseiteige Maßnahmen (Stellmomente)<div>passiv: durch Nutzung äußerer Momente der Umwelt</div>",
+                        "<b>Aktiv</b>: durch bordseiteige Maßnahmen (Stellmomente)<div><b>Passiv</b>: durch Nutzung äußerer Momente der Umwelt</div>",
                         ""
                     ],
                     "flags": 0,
@@ -5973,7 +5973,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "",
+                        "15",
                         "Welche beiden Arten der aktiven Lageregelung gibt es? Nennen Sie Vor- und Nachteile.",
                         "Drallstabilisierung:<br />+ einfach<div>+ Eigenstabil</div><div>+ geringer Treibstoffverbrauch</div><div>- Entkopplung der Instrumente und Solarpanelen von Drehbewegung</div><div>- Geometrieanforderung bzw Massenverteilung&nbsp;</div><div>- Geringe Genauigkeit</div><div><br /></div><div>Dreiachsenstabilisierung:&nbsp;</div><div>+ hohe Lagegenauigkeit</div><div>+ Jede Achse einzeln orientierbar</div><div>+ Große Auslagerstrukturen realisierbar (Solarpanele)</div><div>- komplex</div><div>- störanfällig</div><div>- Treibstoffverbrauch im Grenzzyklusbetrieb</div>",
                         ""
