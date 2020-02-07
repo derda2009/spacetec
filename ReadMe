@@ -1,2 +1,19 @@
-Test
-TEst 2
+Anweisungen zur Verwendung des Anki-Karteikartensystems mit Synchronisiserung über GitHub
+
+-Lade dir Anki für dein Betriebssystem herunter. (Am besten auch gleich für dein Handy - Iphones haben probleme, weil die App kostet). Erstelle dir einen Anki-Account.
+-Erstelle dir einen GitHub-Account. (Lade dir Github für dein Betriebssystem herunter) In Linux ist die Bearbeitung mit der Konsole empfohlen - Anweisungen für GitHub nachfolgend für GitHub-Neulinge.
+-Man downloade sich das Addon für Anki: “CrowdAnki”  https://ankiweb.net/shared/info/1788670778 
+-(Man gebe unter Anki->Extras-> Erweiterungen den Code 1788670778 ein)
+-Besuche https://github.com/AndreasWaldvogel/spacetec/
+-Man befolge die Anweisungen (ab To start working on the deck your collaborators need to:)auf: https://github.com/Stvad/CrowdAnki#import 
+-In diesen Anweisungen wird einem erklärt, wie man die aktuelle Anki-Datei bekommt → Clone or Download → Open in Desktop
+-Die Datei müsste in der Desktop-Version von GitHub geöffnet werden. Hier können Aktualisierungen beobachtet werden.
+-Nun in Anki mit Hilfe von Datei → CrowdAnki: Import from Github → AndreasWaldvogel/spacetec das Karteikartensystem implementieren.
+-Jetzt können die Karteikarten abgefragt werden und mit Hilfe von Kartenübersicht auch bearbeitet werden. Am Besten alle Ergänzungen zu den Karten in “User-own-comment”ergänzen, Numbers ergänzen nach offiziellem Fragenkatalog.
+
+
+
+→ Man hat seine persönlichen Anki-Karteikarten nun bearbeitet und möchte diese mit den anderen Teilen
+-Export der Datein mit “CrowdAnki JSON representation (*directory). Stapel: spacetec
+-Speichern im Ordner C:\Users\lenovo\Documents\GitHub (hier müsste bereits ein Ordner namens spacetec liegen, diesen Überschreiben).
+-Im Anschluss in Github deine Änderungen markieren, einen Kommentar schreiben, was verändert wurde und im Anschluss daran mit “Commit to master” an Andreas senden. 
