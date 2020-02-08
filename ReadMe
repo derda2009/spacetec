@@ -11,7 +11,7 @@ Anweisungen zur Verwendung des Anki-Karteikartensystems mit Synchronisiserung ü
 -Nun in Anki mit Hilfe von Datei → CrowdAnki: Import from Github → AndreasWaldvogel/spacetec das Karteikartensystem implementieren.
 -Jetzt können die Karteikarten abgefragt werden und mit Hilfe von Kartenübersicht auch bearbeitet werden. Am Besten alle Ergänzungen zu den Karten in “User-own-comment”ergänzen, Numbers ergänzen nach offiziellem Fragenkatalog.
 
-
+Test
 
 → Man hat seine persönlichen Anki-Karteikarten nun bearbeitet und möchte diese mit den anderen Teilen
 -Export der Datein mit “CrowdAnki JSON representation (*directory). Stapel: spacetec
